@@ -1,5 +1,5 @@
 CONTRIBUTORS:
 
-Logan Kaas
-Jason Hunt
+Logan Kaas,
+Jason Hunt,
 Brandon Robinson
